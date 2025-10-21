@@ -5,4 +5,4 @@ n = int(input("Digite el número de términos de la serie Fibonacci que desea ve
 a, b = 0, 1
 for _ in range(n):
     print(a)
-    a, b = b, a + b
+    a, b = b, a + b  
