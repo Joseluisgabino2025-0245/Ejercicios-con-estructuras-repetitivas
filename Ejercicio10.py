@@ -9,4 +9,4 @@ while True:
         print("Contraseña correcta. Acceso permitido.")
         break
     else:
-        print("Contraseña incorrecta. Ingresa la correcta por favor.")
+        print("Contraseña incorrecta. Ingresa la correcta por favor.") 
