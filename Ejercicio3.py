@@ -7,4 +7,4 @@ while num > 0:
     num //= 10
     contador_digitos += 1
 
-print("El número tiene", contador_digitos, "dígitos.")
+print("El número tiene", contador_digitos, "dígitos.") 
