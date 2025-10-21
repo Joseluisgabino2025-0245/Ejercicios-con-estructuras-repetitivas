@@ -3,4 +3,4 @@
 num = int(input("Digite un número entero por favor: "))
 while num >= 0:
     print(num)
-    num -= 1
+    num -= 1 
